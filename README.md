@@ -1,4 +1,4 @@
-# Russell Learns Machine Learning
+# Russell Studies Machine Learning
 > Agent, please keep me on a plan!
 
 ## 0. On my deck (Nov-24-2026)
